@@ -1,0 +1,12 @@
+{
+  "contrib-grep":       "datmac/contrib-grep",
+  "contrib-limit":      "datmac/contrib-limit",
+  "contrib-void":       "datmac/contrib-void",
+  "contrib-normalize" : "datmac/contrib-normalize",
+  "contrib-wrap":       "datmac/contrib-wrap",
+  "contrib-csvclean":   "datmac/contrib-csvclean",
+  "contrib-csv2nt":     "datmac/contrib-csv2nt",
+  "contrib-csv2json":   "datmac/contrib-csv2json",
+  "contrib-csv2sql":    "datmac/contrib-csv2sql",
+  "contrib-json2jdx":   "datmac/contrib-json2jdx"
+}
